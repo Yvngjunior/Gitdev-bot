@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "MyProject": "/home/alex/code/MyProject",
+    "AnotherProject": "/home/alex/code/AnotherProject",
+    "myProjeCt": "/data/data/com.termux/files/home/myProjeCt"
+  },
+  "default": "myProjeCt"
+}
